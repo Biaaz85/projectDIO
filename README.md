@@ -12,6 +12,6 @@ Criei a estória com o auxílio do ChatGPT, apresentando um prompt bem descritiv
 Na construção do vídeo encontrei obstáculos pois não consegui adaptar uma voz infantil. Também havia limite de caracteres para o texto então não seria possível incluir a estoria completa. Acabei optando por incluir um áudio pronto.
 
 ## 🚀 Resultados
-O vídeo pode ser visualizado aqui
+O vídeo pode ser visualizado em https://studio.d-id.com/share?id=1042bc41ce850523567d406d94d60af7&utm_source=copy 
 
 ## 💭 Reflexão (Opcional)
