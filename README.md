@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Storytelling
 
 ## 📒 Descrição
 Tenho um filho pequeno e costumo utilizar o chatGPT para criar estorias com alguma lição ou contar estorias conhecidas. Ultimamente meu filho me pedia para misturar os personagens das estórias então tive a ideia de criar um crossover entre as estórias "João e o pé de feijão" e "João e Maria" deixando uma lição ao final.
